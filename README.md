@@ -1,7 +1,7 @@
 # Digital Literacy Portfolio
 
 ## 👤 Student Details
-- Name: Ayaan Shams  
+- Name: Ayan Shams  
 - Branch: B.Tech CSE (Health Informatics)  
 - University: VIT Bhopal  
 
@@ -39,14 +39,6 @@ This project is created as part of the Digital Literacy course. The aim of this 
 - Learned professional email writing  
 - Built an online portfolio  
 - Gained awareness about cybercrime and online safety  
-
----
-
-## 🔗 Additional Links
-
-(Google Form link will be added here)
-
----
 
 ## 📌 Conclusion
 This project helped me understand the importance of digital literacy in today’s world and how to use digital platforms responsibly and effectively.
